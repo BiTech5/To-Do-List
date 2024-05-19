@@ -28,7 +28,7 @@ https://github.com/BiTech5/To-Do-List.git
 ```
 2. **Navigate to the project directory:**
 ```bash
-cd todo-list
+cd to-do-list
 ```
 ## Contributing
 Contributions are welcome! If you'd like to contribute to Restaurant Frontend, please follow these steps:
